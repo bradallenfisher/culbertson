@@ -1,18 +1,10 @@
 {
-    "title": "11ty-no-style-please",
-    "subtitle": "demo of a page made with 11ty-no-style-please",
+    "title": "Culbertson Financial Services",
+    "subtitle": "Helping Contractors Succeed!",
     "menu": [
+ 
         {
-            "title": "read more here",
-            "entries": [
-                {
-                    "title": "github",
-                    "url": "http://github.com/stopnoanime/11ty-no-style-please"
-                }
-            ]
-        },
-        {
-            "title": "all posts with the 'post' tag",
+            "title": "Our Latest Blog Posts",
             "post_list": "post"
         }
     ]
