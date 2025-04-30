@@ -63,7 +63,12 @@ table, th, td {
   gap: 2rem;
   padding: 2rem 0;
 }
-
+.post-meta > time {
+  font-size: 0.875rem;
+  padding:20px;
+  background-color: aquamarine;
+  border-radius: 5px;
+}
 @media (max-width: 768px) {
   .post-grid {
     grid-template-columns: repeat(2, 1fr);
