@@ -1,6 +1,10 @@
 {
-    "routes": [
-      { "handle": "filesystem" },
-      { "src": "/(.*)", "status": 404, "dest": "/" }
+    "cleanUrls": true,
+    "redirects": [
+      {
+        "source": "/articles/13",
+        "destination": "/posts/beyond-the-bank",
+        "permanent": true
+      }
     ]
   }
