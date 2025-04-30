@@ -1,0 +1,9 @@
+{
+    "redirects": [
+      {
+        "source": "/:path((?!api|_next|static|media|css|[\\w-]+\\.[\\w]+).*)",
+        "destination": "/",
+        "permanent": true
+      }
+    ]
+  }
